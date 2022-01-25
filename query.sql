@@ -9,7 +9,7 @@ WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 SELECT COUNT (first_name)
 FROM retirement_info;
 
--- Display the table
+-- Display the table in data output
 SELECT * FROM retirement_info ;
 
 
